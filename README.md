@@ -159,25 +159,6 @@ MIT License
 
 ---
 
-## 👤 Author
-
-**Jay Oza**
-AI Research • Quantitative Finance • Automation Systems
-
----
-
 > If you find this useful, please ⭐ the repository!
 
-```
-
----
-
-### 🔥 Optional Next
-If you want, I can:
-- Add **badges** (Python, Streamlit, License)
-- Write a **paper-style README** (for arXiv / research repos)
-- Create a **Docker-ready README**
-- Make a **SaaS landing README**
-
-Just tell me how public you want this repo to be.
 ```
