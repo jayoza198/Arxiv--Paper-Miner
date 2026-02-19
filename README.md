@@ -126,31 +126,6 @@ Example:
 
 ---
 
-## 🛠 Roadmap
-
-* [ ] Semantic search with embeddings
-* [ ] BERTopic / topic modeling
-* [ ] PDF auto-download
-* [ ] Weekly scheduled literature mining
-* [ ] FastAPI backend
-* [ ] Docker support
-* [ ] Multi-query batch mode
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome.
-For major changes, please open an issue first.
-
----
-
-## 📜 License
-
-MIT License
-
----
-
 ## ⭐ Acknowledgements
 
 * arXiv.org
