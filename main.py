@@ -39,7 +39,7 @@ end_date = st.sidebar.date_input("End Date", value=datetime.today())
 max_results = st.sidebar.number_input(
     "Max Papers",
     min_value=1,
-    max_value=200,
+    max_value=2000,
     value=30,
     step=5
 )
